@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\YUAN\\MyProject\\playfile\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\YUAN\\MyProject\\playfile\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "99,59",
+                        "endColumns": "45,38",
+                        "endOffsets": "140,93"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,38",
+                        "endOffsets": "96,135"
+                    }
+                }
+            ]
+        }
+    ]
+}

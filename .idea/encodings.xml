@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/demo/playfile/PlayfileActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/demo/playfile/util/FileUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/Date.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPHeader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPPacket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPRequestListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPServerList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPServerThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPSocket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/HTTPStatus.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/Parameter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/http/ParameterList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/net/HostInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/util/Debug.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/util/FileUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/util/ListenerList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/util/Mutex.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/util/StringUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/util/ThreadCore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/cybergarage/util/TimerUtil.java" charset="GBK" />
+  </component>
+</project>

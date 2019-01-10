@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:8:5-22:19
+	android:label
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:9:9-45
+activity#demo.playfile.PlayfileActivity
+ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:12:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:17:27-74
+service#demo.playfile.service.PlayFileService
+ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml:21:18-57
+uses-sdk
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+		ADDED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\YUAN\MyProject\playfile\app\src\main\AndroidManifest.xml
